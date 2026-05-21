@@ -77,11 +77,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atishay Jain&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atishayjain208&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atishay Jain&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atishayjain208&theme=tokyonight" />
 </p>
 
 ---
